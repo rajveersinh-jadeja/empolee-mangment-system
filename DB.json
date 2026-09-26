@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employeeName": "Aarav Patel",
+      "employeeId": "EMP001",
+      "employeePosition": "Frontend Developer",
+      "employerName": "TechNova Solutions",
+      "profilePhoto": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 2,
+      "employeeName": "Diya Shah",
+      "employeeId": "EMP002",
+      "employeePosition": "UI/UX Designer",
+      "employerName": "PixelCraft Studio",
+      "profilePhoto": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": 3,
+      "employeeName": "Rohan Mehta",
+      "employeeId": "EMP003",
+      "employeePosition": "Backend Developer",
+      "employerName": "CloudByte Technologies",
+      "profilePhoto": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 4,
+      "employeeName": "Anaya Joshi",
+      "employeeId": "EMP004",
+      "employeePosition": "Full Stack Developer",
+      "employerName": "CodeWave Systems",
+      "profilePhoto": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": 5,
+      "employeeName": "Kabir Desai",
+      "employeeId": "EMP005",
+      "employeePosition": "Software Engineer",
+      "employerName": "DevCore Labs",
+      "profilePhoto": "https://i.pravatar.cc/150?img=13"
+    }
+  ]
+}
+
+
